@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pradeepbadiger223-stack/Leetcode22/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/pradeepbadiger223-stack/Leetcode22/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
 | ------- |
