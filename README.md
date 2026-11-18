@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pradeepbadiger223-stack/Leetcode22/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/pradeepbadiger223-stack/Leetcode22/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/pradeepbadiger223-stack/Leetcode22/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/pradeepbadiger223-stack/Leetcode22/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/pradeepbadiger223-stack/Leetcode22/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
